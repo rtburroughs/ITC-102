@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+body{
+    background-image: url('https://www.highreshdwallpapers.com/wp-content/uploads/2012/05/Minimal-Clouds-Wallpaper.jpg');
+    border: 10px yellow;
+    background-size: 1000% 1000%;
+}
+
+
+h1{
+     color: white;
+     text-align: center;
+     font-size: 100px
+     } 
+     
+h2 {
+     color:
+     text-align: center;
+     padding: 3px;      
+     }
+     
+h3 {
+     color:
+     text-align: center;
+     }  
+
+h4 {
+     color:
+     text-align: center;
+     } 
+
+p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  padding: 3px;
+  }
+
+
+ 
+
+
+</style>
+
+
+<title>Friendship Group</title>
+
+</head>
+<body>
+
+         <h1>About Me</h1>
+         
+<p><br>
+<br>
+<img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" height="300" width="300"></img><img src="https://i.imgur.com/5SMbG5G.jpg" height="600" width="600" border="6" bordercolor="white"></img><img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="300" height="300"></img>
+<br>
+<br>
+<br>
+<br>
+</p>
+
+
+        
+
+
+<p>
+<table border=10 bordercolor=white width="650"> <TR> 
+<TD>Hey there, my name is "T" (A nickname I go by), and I'm a 26-year-old web design student.
+         I moved to Seattle a little over a year-and-a-half ago from Tampa, Florida.
+<br>
+         I basically moved here to escape the terrible heat and giant confederate flags. I currently work as a barista in the Central District, after doing bike shop/mechanic work for five years.
+<br>
+         I do cartooning in my free time, as well as plant-keeping, gardening, and cycling.
+<br>
+         My goal in life is to have a career with limited human contact and a decent salary. I feel like that's everyones dream, though.</TD> 
+</TABLE>
+</p>
+
+    
+
+         <h2></h2>
+
+
+         <h3></h3>
+
+ 
+
+         <h4></h4>
+
+ 
+
+
+</body>
+</html>
